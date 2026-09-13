@@ -1,0 +1,14 @@
+[build]
+  publish = "site"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+# SPA-style fallback for the single index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
