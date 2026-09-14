@@ -1,0 +1,552 @@
+[
+  {
+    "id": "exam01",
+    "title": {
+      "de": "Musterprüfung 01",
+      "en": "Sample Exam 01",
+      "fa": "آزمون نمونه ۰۱",
+      "ar": "امتحان تجريبي ٠١"
+    },
+    "totalTimeMinutes": 180,
+    "locked": false
+  },
+  {
+    "id": "exam02",
+    "title": {
+      "de": "Musterprüfung 02",
+      "en": "Sample Exam 02",
+      "fa": "آزمون نمونه ۰۲",
+      "ar": "امتحان تجريبي ٠٢"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam03",
+    "title": {
+      "de": "Musterprüfung 03 – Arbeit",
+      "en": "Sample Exam 03 – Work",
+      "fa": "آزمون نمونه 03 – کار",
+      "ar": "امتحان تجريبي 03 – العمل"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam04",
+    "title": {
+      "de": "Musterprüfung 04 – Bildung",
+      "en": "Sample Exam 04 – Education",
+      "fa": "آزمون نمونه 04 – آموزش",
+      "ar": "امتحان تجريبي 04 – التعليم"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam05",
+    "title": {
+      "de": "Musterprüfung 05 – Gesundheit",
+      "en": "Sample Exam 05 – Health",
+      "fa": "آزمون نمونه 05 – سلامت",
+      "ar": "امتحان تجريبي 05 – الصحة"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam06",
+    "title": {
+      "de": "Musterprüfung 06 – Wohnen",
+      "en": "Sample Exam 06 – Housing",
+      "fa": "آزمون نمونه 06 – مسکن",
+      "ar": "امتحان تجريبي 06 – السكن"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam07",
+    "title": {
+      "de": "Musterprüfung 07 – Medien",
+      "en": "Sample Exam 07 – Media",
+      "fa": "آزمون نمونه 07 – رسانه",
+      "ar": "امتحان تجريبي 07 – الإعلام"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam08",
+    "title": {
+      "de": "Musterprüfung 08 – Umwelt",
+      "en": "Sample Exam 08 – Environment",
+      "fa": "آزمون نمونه 08 – محیط‌زیست",
+      "ar": "امتحان تجريبي 08 – البيئة"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam09",
+    "title": {
+      "de": "Musterprüfung 09 – Freizeit",
+      "en": "Sample Exam 09 – Leisure",
+      "fa": "آزمون نمونه 09 – اوقات فراغت",
+      "ar": "امتحان تجريبي 09 – وقت الفراغ"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam10",
+    "title": {
+      "de": "Musterprüfung 10 – Gesellschaft",
+      "en": "Sample Exam 10 – Society",
+      "fa": "آزمون نمونه 10 – جامعه",
+      "ar": "امتحان تجريبي 10 – المجتمع"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam11",
+    "title": {
+      "de": "Musterprüfung 11 – Alltag & Regional",
+      "en": "Sample Exam 11 – Alltag & Regional",
+      "fa": "آزمون نمونه 11 – Alltag & Regional",
+      "ar": "امتحان تجريبي 11"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam12",
+    "title": {
+      "de": "Musterprüfung 12 – Digitalisierung & Stadt",
+      "en": "Sample Exam 12 – Digitalisierung & Stadt",
+      "fa": "آزمون نمونه 12 – Digitalisierung & Stadt",
+      "ar": "امتحان تجريبي 12"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam13",
+    "title": {
+      "de": "Musterprüfung 13 – Gesundheit & Umwelt",
+      "en": "Sample Exam 13 – Gesundheit & Umwelt",
+      "fa": "آزمون نمونه 13 – Gesundheit & Umwelt",
+      "ar": "امتحان تجريبي 13"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam14",
+    "title": {
+      "de": "Musterprüfung 14 – Technik & Arbeit",
+      "en": "Sample Exam 14 – Technik & Arbeit",
+      "fa": "آزمون نمونه 14 – Technik & Arbeit",
+      "ar": "امتحان تجريبي 14"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam15",
+    "title": {
+      "de": "Musterprüfung 15 – Nachhaltigkeit",
+      "en": "Sample Exam 15 – Nachhaltigkeit",
+      "fa": "آزمون نمونه 15 – Nachhaltigkeit",
+      "ar": "امتحان تجريبي 15"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam16",
+    "title": {
+      "de": "Musterprüfung 16 – Integration & Beruf",
+      "en": "Sample Exam 16 – Integration & Beruf",
+      "fa": "آزمون نمونه 16 – Integration & Beruf",
+      "ar": "امتحان تجريبي 16"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam17",
+    "title": {
+      "de": "Musterprüfung 17 – Vorsorge & Bildung",
+      "en": "Sample Exam 17 – Vorsorge & Bildung",
+      "fa": "آزمون نمونه 17 – Vorsorge & Bildung",
+      "ar": "امتحان تجريبي 17"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam18",
+    "title": {
+      "de": "Musterprüfung 18 – Gesundheit & Klima",
+      "en": "Sample Exam 18 – Gesundheit & Klima",
+      "fa": "آزمون نمونه 18 – Gesundheit & Klima",
+      "ar": "امتحان تجريبي 18"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam19",
+    "title": {
+      "de": "Musterprüfung 19 – Familie & Klima",
+      "en": "Sample Exam 19 – Familie & Klima",
+      "fa": "آزمون نمونه 19 – Familie & Klima",
+      "ar": "امتحان تجريبي 19"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam20",
+    "title": {
+      "de": "Musterprüfung 20 – Bildung & Arbeit",
+      "en": "Sample Exam 20 – Bildung & Arbeit",
+      "fa": "آزمون نمونه 20 – Bildung & Arbeit",
+      "ar": "امتحان تجريبي 20"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam21",
+    "title": {
+      "de": "Musterprüfung 21 – Arbeit & Bildung",
+      "en": "Sample Exam 21 – Arbeit & Bildung",
+      "fa": "آزمون نمونه 21 – Arbeit & Bildung",
+      "ar": "امتحان تجريبي 21"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam22",
+    "title": {
+      "de": "Musterprüfung 22 – Mobilität & Arbeit",
+      "en": "Sample Exam 22 – Mobilität & Arbeit",
+      "fa": "آزمون نمونه 22 – Mobilität & Arbeit",
+      "ar": "امتحان تجريبي 22"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam23",
+    "title": {
+      "de": "Musterprüfung 23 – Familie & Weiterbildung",
+      "en": "Sample Exam 23 – Familie & Weiterbildung",
+      "fa": "آزمون نمونه 23 – Familie & Weiterbildung",
+      "ar": "امتحان تجريبي 23"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam24",
+    "title": {
+      "de": "Musterprüfung 24 – Digital Detox & Arbeit",
+      "en": "Sample Exam 24 – Digital Detox & Arbeit",
+      "fa": "آزمون نمونه 24 – Digital Detox & Arbeit",
+      "ar": "امتحان تجريبي 24"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam25",
+    "title": {
+      "de": "Musterprüfung 25 – Flexible Karrieren",
+      "en": "Sample Exam 25 – Flexible Karrieren",
+      "fa": "آزمون نمونه 25 – Flexible Karrieren",
+      "ar": "امتحان تجريبي 25"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam26",
+    "title": {
+      "de": "Musterprüfung 26 – Wohnen & Arbeit",
+      "en": "Sample Exam 26 – Wohnen & Arbeit",
+      "fa": "آزمون نمونه 26 – Wohnen & Arbeit",
+      "ar": "امتحان تجريبي 26"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam27",
+    "title": {
+      "de": "Musterprüfung 27 – Pflege & Angehörige",
+      "en": "Sample Exam 27 – Pflege & Angehörige",
+      "fa": "آزمون نمونه 27 – Pflege & Angehörige",
+      "ar": "امتحان تجريبي 27"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam28",
+    "title": {
+      "de": "Musterprüfung 28 – Mobilität & Integration",
+      "en": "Sample Exam 28 – Mobilität & Integration",
+      "fa": "آزمون نمونه 28 – Mobilität & Integration",
+      "ar": "امتحان تجريبي 28"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam29",
+    "title": {
+      "de": "Musterprüfung 29 – Nachhaltigkeit & Lebensmittel",
+      "en": "Sample Exam 29 – Nachhaltigkeit & Lebensmittel",
+      "fa": "آزمون نمونه 29 – Nachhaltigkeit & Lebensmittel",
+      "ar": "امتحان تجريبي 29"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam30",
+    "title": {
+      "de": "Musterprüfung 30 – Gesellschaft & Alter",
+      "en": "Sample Exam 30 – Gesellschaft & Alter",
+      "fa": "آزمون نمونه 30 – Gesellschaft & Alter",
+      "ar": "امتحان تجريبي 30"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam31",
+    "title": {
+      "de": "Musterprüfung 31 – Energie & Bildung",
+      "en": "Sample Exam 31 – Energie & Bildung",
+      "fa": "آزمون نمونه 31 – Energie & Bildung",
+      "ar": "امتحان تجريبي 31"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam32",
+    "title": {
+      "de": "Musterprüfung 32 – Nachbarschaft & Nachhaltigkeit",
+      "en": "Sample Exam 32 – Nachbarschaft & Nachhaltigkeit",
+      "fa": "آزمون نمونه 32 – Nachbarschaft & Nachhaltigkeit",
+      "ar": "امتحان تجريبي 32"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam33",
+    "title": {
+      "de": "Musterprüfung 33 – Natur & Entspannung",
+      "en": "Sample Exam 33 – Natur & Entspannung",
+      "fa": "آزمون نمونه 33 – Natur & Entspannung",
+      "ar": "امتحان تجريبي 33"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam34",
+    "title": {
+      "de": "Musterprüfung 34 – Ausbildung & Barrierefreiheit",
+      "en": "Sample Exam 34 – Ausbildung & Barrierefreiheit",
+      "fa": "آزمون نمونه 34 – Ausbildung & Barrierefreiheit",
+      "ar": "امتحان تجريبي 34"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam35",
+    "title": {
+      "de": "Musterprüfung 35 – Reparieren & Handwerk",
+      "en": "Sample Exam 35 – Reparieren & Handwerk",
+      "fa": "آزمون نمونه 35 – Reparieren & Handwerk",
+      "ar": "امتحان تجريبي 35"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam36",
+    "title": {
+      "de": "Musterprüfung 36 – Mobilität & Wohnen",
+      "en": "Sample Exam 36 – Mobilität & Wohnen",
+      "fa": "آزمون نمونه 36 – Mobilität & Wohnen",
+      "ar": "امتحان تجريبي 36"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam37",
+    "title": {
+      "de": "Musterprüfung 37 – Energie & Solar",
+      "en": "Sample Exam 37 – Energie & Solar",
+      "fa": "آزمون نمونه 37 – Energie & Solar",
+      "ar": "امتحان تجريبي 37"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam38",
+    "title": {
+      "de": "Musterprüfung 38 – Zero Waste & Nachhaltigkeit",
+      "en": "Sample Exam 38 – Zero Waste & Nachhaltigkeit",
+      "fa": "آزمون نمونه 38 – Zero Waste & Nachhaltigkeit",
+      "ar": "امتحان تجريبي 38"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam39",
+    "title": {
+      "de": "Musterprüfung 39 – Reisen & Energie",
+      "en": "Sample Exam 39 – Reisen & Energie",
+      "fa": "آزمون نمونه 39 – Reisen & Energie",
+      "ar": "امتحان تجريبي 39"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam40",
+    "title": {
+      "de": "Musterprüfung 40 – Ernährung & Reste",
+      "en": "Sample Exam 40 – Ernährung & Reste",
+      "fa": "آزمون نمونه 40 – Ernährung & Reste",
+      "ar": "امتحان تجريبي 40"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam41",
+    "title": {
+      "de": "Musterprüfung 41 – Mobilität & Klima",
+      "en": "Sample Exam 41 – Mobilität & Klima",
+      "fa": "آزمون نمونه 41 – Mobilität & Klima",
+      "ar": "امتحان تجريبي 41"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam42",
+    "title": {
+      "de": "Musterprüfung 42 – Arbeit & Selbständigkeit",
+      "en": "Sample Exam 42 – Arbeit & Selbständigkeit",
+      "fa": "آزمون نمونه 42 – Arbeit & Selbständigkeit",
+      "ar": "امتحان تجريبي 42"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam43",
+    "title": {
+      "de": "Musterprüfung 43 – Gesundheit & Pflege",
+      "en": "Sample Exam 43 – Gesundheit & Pflege",
+      "fa": "آزمون نمونه 43 – Gesundheit & Pflege",
+      "ar": "امتحان تجريبي 43"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam44",
+    "title": {
+      "de": "Musterprüfung 44 – Reparatur & Reisen",
+      "en": "Sample Exam 44 – Reparatur & Reisen",
+      "fa": "آزمون نمونه 44 – Reparatur & Reisen",
+      "ar": "امتحان تجريبي 44"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam45",
+    "title": {
+      "de": "Musterprüfung 45 – Vereine & Ehrenamt",
+      "en": "Sample Exam 45 – Vereine & Ehrenamt",
+      "fa": "آزمون نمونه 45 – Vereine & Ehrenamt",
+      "ar": "امتحان تجريبي 45"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam46",
+    "title": {
+      "de": "Musterprüfung 46 – Ernährung & Klima",
+      "en": "Sample Exam 46 – Ernährung & Klima",
+      "fa": "آزمون نمونه 46 – Ernährung & Klima",
+      "ar": "امتحان تجريبي 46"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam47",
+    "title": {
+      "de": "Musterprüfung 47 – Digitale Verwaltung",
+      "en": "Sample Exam 47 – Digitale Verwaltung",
+      "fa": "آزمون نمونه 47 – Digitale Verwaltung",
+      "ar": "امتحان تجريبي 47"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam48",
+    "title": {
+      "de": "Musterprüfung 48 – Bildung & Lernen",
+      "en": "Sample Exam 48 – Bildung & Lernen",
+      "fa": "آزمون نمونه 48 – Bildung & Lernen",
+      "ar": "امتحان تجريبي 48"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam49",
+    "title": {
+      "de": "Musterprüfung 49 – Nachhaltiger Konsum",
+      "en": "Sample Exam 49 – Nachhaltiger Konsum",
+      "fa": "آزمون نمونه 49 – Nachhaltiger Konsum",
+      "ar": "امتحان تجريبي 49"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  },
+  {
+    "id": "exam50",
+    "title": {
+      "de": "Musterprüfung 50 – Abschluss & Gründung",
+      "en": "Sample Exam 50 – Abschluss & Gründung",
+      "fa": "آزمون نمونه 50 – Abschluss & Gründung",
+      "ar": "امتحان تجريبي 50"
+    },
+    "totalTimeMinutes": 180,
+    "locked": true
+  }
+]
